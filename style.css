@@ -1,0 +1,21 @@
+body
+{background-color: aqua;}
+#hello
+{background-color: brown;}
+#lorem
+{width: 500;
+height: 600;
+background: linear-gradient( to top left,violet,
+indigo,
+blue,
+green,
+yellow,
+orange,
+red
+);color: white;
+font-size: larger;
+/*border:width type color ; */
+border: 10px solid red;
+text-align: center;
+}
+
